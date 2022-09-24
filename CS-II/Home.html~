@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      .p1 {
+	  font-family: "Lucida Console", "Courier New", monospace;
+	  text-align: center;
+	  font-size: 2em;
+	  padding: 35px;	  
+	  margin: 35px;
+	  
+	  color: brown;
+	 
+      }
+      .p2{
+	  text-align: center;
+	  font-size:2em;
+	  margin-top: 8%;
+	  padding: 10px;
+	  background-color: beige;
+	  border-style: solid;
+	  border: 1px solid;
+	  box-shadow: 10px 10px 50px lightcoral inset;
+      }
+		      
+			   
+      ul { list-style-type: none;
+	   margin: 0;
+	   padding: 0;
+	   overflow: hidden;
+	   ;
+
+	 }
+  
+      li { float: left ;
+
+	   border-right:1px solid peachpuff;
+	   font-size:2em;
+	 }
+      li:last-child {
+	  border-right: none;
+      }
+      li a {display: block;
+	    color: brown;
+	    text-align: center;
+	    padding: 14px 16px;
+	    text-decoration: none;
+	   }
+      li a:hover:not(.active){
+	  background-color: mistyrose;
+      }
+      html {
+	  height:280%;
+      }
+      body {
+	  background-image: linear-gradient(45deg, beige, rgb(255,122,89));
+	  background-repeat: no-repeat;
+	  background-size: cover;
+      }
+	    .active{ background-color: deeppink;
+	     }
+      </style>
+    <meta charset="UTF-8">
+    <title> Digital Portfolio</title></head>
+<ul>
+ 
+
+   <li>   <a href="index.html"> Home  </a> </li>
+<li> <a href="Home.html"> About me page</a></li>
+   <li> <a href="DigitalPortfolio.html"> Digital Portfolio </a> </li>
+<li> <a href="lsp.html"> lsp</a></li>
+
+<li> <a href="Essay/fingerprints.html"> Fingerprints </a></li>
+<li><a href='Essay/AI Sentience.html'> AI Sentience</a></li>
+<li><a href="Projects/Optimal Sort.html"> Optimal Sorting</a></li>
+</ul>
+
+<p class="p2"> About Me Page</p>
+
+
+
+<p class="p1"><br><br><br>  Hello, my name is Zaenb Al Ameri. Im a junior in allen high school.  My birthday is on September 6, 2006. My hobbies are baking, dancing, playing the piano, drawing, and learning new languages. l can currently speak English, Arabic, Spanish and l can understand Korean. Fun fact: lm a ballerina and l won 2nd place in a national competion 2 years ago.<br><br> This is my first year in the US because l spent my entire life in UAE, Dubai, and they have a completely different culture and language and all my friends and family are there. Because of this it was difficult for me to adjust in the US, but l had to do it because if l cant adjust like everyone, then what else will l be able to do in life?. Before we knew it everything went by very quickly and then school started and then on the first day l met my best friend jana and she made me love school and l even adapted to the US.<br><br> Lastly, my goal is to either became a doctor or something in computer science , l know they are two different careers, but l love them both. l want to persue a career that l love and enjoy so l can work better.<b> My dream is to create something the entire globe needs.</b></p>
+
+<img src="https://i.postimg.cc/L4tzQzYR/ballerina-jumping.webp" width="190" height="230" alt="ballerina">
+<img src="https://i.postimg.cc/SxvTQWf3/images-1.jpg" width="190" height="230" alt="languages">
+
+<h2> Helped: Jana Daouk </h2>
+</body>
