@@ -1,79 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <style>
-      .p1 {
-	  font-family: "Lucida Console", "Courier New", monospace;
-	  text-align: center;
-	  font-size: 2em;
-	  padding: 35px;	  
-	  margin: 35px;
-	  
-	  color: brown;
-	 
-      }
-      .p2{
-	  text-align: center;
-	  font-size:2em;
-	  margin-top: 8%;
-	  padding: 10px;
-	  background-color: beige;
-	  border-style: solid;
-	  border: 1px solid;
-	  box-shadow: 10px 10px 50px lightcoral inset;
-      }
-		      
-			   
-      ul { list-style-type: none;
-	   margin: 0;
-	   padding: 0;
-	   overflow: hidden;
-	   ;
-
-	 }
-  
-      li { float: left ;
-
-	   border-right:1px solid peachpuff;
-	   font-size:2em;
-	 }
-      li:last-child {
-	  border-right: none;
-      }
-      li a {display: block;
-	    color: brown;
-	    text-align: center;
-	    padding: 14px 16px;
-	    text-decoration: none;
-	   }
-      li a:hover:not(.active){
-	  background-color: mistyrose;
-      }
-      html {
-	  height:280%;
-      }
-      body {
-	  background-image: linear-gradient(45deg, beige, rgb(255,122,89));
-	  background-repeat: no-repeat;
-	  background-size: cover;
-      }
-	    .active{ background-color: deeppink;
-	     }
-      </style>
+    <link rel="stylesheet" href="CS-II/style.css">
     <meta charset="UTF-8">
     <title> Digital Portfolio</title></head>
-<ul>
+
+  <header>
+    <a href="#" class="logo"> Digital Portfolio </a>
+    <nav class="navbar">
+      
+  <ul>
  
 
    <li>   <a href="index.html"> Home  </a> </li>
 <li> <a href="Home.html"> About me page</a></li>
-   <li> <a href="DigitalPortfolio.html"> Digital Portfolio </a> </li>
-<li> <a href="lsp.html"> lsp</a></li>
 
+   <li> <a href="DigitalPortfolio.html"> Digital Portfolio </a> </li>
+<li> <a href="lsp.html"> Isp</a></li>
+
+   <li> <a href="#"> Essays +</a>
+     <ul>
 <li> <a href="Essay/fingerprints.html"> Fingerprints </a></li>
-<li><a href='Essay/AI Sentience.html'> AI Sentience</a></li>
+   <li><a href="Essay/AI Sentience.html"> AI Sentience</a></li>
+   </ul></li>
 <li><a href="Projects/Optimal Sort.html"> Optimal Sorting</a></li>
 </ul>
+</nav>
+</header>
 
 <p class="p2"> About Me Page</p>
 

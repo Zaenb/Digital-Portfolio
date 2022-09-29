@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="CS-II/style.css">
+    
+    <meta charset="UTF-8">
+    <title> Digital Portfolio</title></head>
+
+
+
+  <header>
+    <a href="#" class="logo"> Digital Portfolio</a>
+    <nav class="navbar">
+<ul>
+ 
+
+   <li>   <a href="index.html"> Home </a> </li>
+<li> <a href="Home.html"> About me page</a></a>
+   <li> <a href="DigitalPortfolio.html"> Digital Portfolio </a> </li>
+<li> <a href="lsp.html"> lsp</a></li>
+<li> <a href="#"> Essays +</a>
+  <ul>
+<li> <a href="Essay/fingerprints.html"> Fingerprints </a></li>
+<li><a href="Essay/AI Sentience.html"> AI Sentience</a></li>
+</ul></li>
+<li> <a href="Projects/Optimal Sort.html"> Optimal Sorting </a></li>
+</ul></nav></header>
+
+<body1>
+  <div class="text"> Welcome to My</div>
+  <div class="container">
+
+    <div>Portfolio</div>
+
+</div></body1>
+
+
+
+
+<h1><br> My Digital Portfolio<br><br> Done By: Zaenb Al Ameri<br><br> <a href="https://github.com/Zaenb/Digital-Portfolio"> Github link</a><br><br></h1> 
+</body>

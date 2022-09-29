@@ -4,7 +4,7 @@
 
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="CS-II/style.css">
     <meta charset="UTF-8">
 
     <title> Digital Portfolio</title></head>
@@ -22,7 +22,7 @@
       <li><a href="#"> Essays +</a>
 	<ul>
 
-      <li>   <a href="Essay/fingerprints.html"> Fingerprints</a></li>
+	  <li><a href="Essay/fingerprints.html"> Fingerprints</a></li>
   <li>  <a href="Essay/AI Sentience.html"> AI Sentience</a></li>
 </li></ul>
 
