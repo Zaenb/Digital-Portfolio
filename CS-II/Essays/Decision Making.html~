@@ -1,0 +1,94 @@
+ <!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <link rel="stylesheet" href="../../CS-II/style.css">
+
+    <meta charset="UTF-8">
+    <title> Digital Portfolio </title></head>
+  <header>
+    <a href="#" class="logo"> Digital Portfolio</a>
+    <nav class="navbar">
+
+
+      <ul>
+	<li><a href="../../index.html" > Home  </a></li>
+	<li><a href="../../Home.html">About Me Page
+	    <li><a href="../../DigitalPortfolio.html"> Digital Portfolio </a></li>
+	    <li><a href="../../lsp.html" > Isp </a> </li>
+	    <li> <a href="#"> Essays +</a>
+	      <ul>
+		<li>  <a href="fingerprints.html"> Fingerprints</a></li>
+		<li><a href="AI%20Sentience.html"> AI Sentience</a></li>
+<li><a href="Decision%20Making.html"> Decision Making </a></li> 
+	    </li></ul>
+	    <li><a href="#"> Projects +</a>
+	      <ul>
+		<li><a href="../../CS-II/Projects/Optimal%20Sort.html"> Optimal Sorting</a></li>
+		<li><a href="../../CS-II/Projects/Business%20Plan/index.html"> Business Plan</a></li>
+		<li><a href="../../CS-II/Projects/ISP/index.html"> ISP </a></li>
+	    </li></ul>
+      </ul>
+
+  </nav></header>
+  <p class="p2"><b> Decision Making</b>
+  <br><br><br>  Name: Zaenb Al Ameri<br>
+    (Allen ISD STEAM center)<br>
+    (Advanced Computer Science II)<br>
+    Teacher name:David Ben-yaakov<br>
+    Due Date: Dec 7, 2022</p>
+  </p>
+
+<p class="p1"> <br><br><br>
+		 " Alone we can do so little; together we can do so much." – Helen Keller.
+Although many people prefer working alone, group work is always regarded to bring out the best in you while also forcing you to learn from your mistakes, correct them, and assist others in doing the same. I think that even the most harmonious teams have biases present that might negatively impact the project they are working on, but these biases can be avoided; read on to learn about some of them.<br><br>
+  <b>Conformity bias</b><br><br>
+  When you second-guess your thoughts, ideas, and decisions and feel forced to concur with others, bias of this kind occurs. We change how we act to fit in with the group because of our inner need to belong. Due to your own negligence, you may make poor decisions and perform poor work, which will only serve to hold you back in every manner. Because we look to other people for approval and affirmation, bias of this kind is common. People also wish to hold beliefs and viewpoints that are accepted by their community . (P:12) “It refers to the human tendency to take cues for appropriate behavior from the actions of others rather than using personal judgment” (Deshpande, 2021). <br><br>
+By making notes about your thoughts and everyone else's perspectives, you can identify how your point of view and their point of view differ from one another and prevent this kind of bias. From my perspective, I'll be making notes about them and making sure to express my opinion to everyone and explain it clearly so they can understand.
+
+
+  <br><br>
+  <b> Beauty bias</b>
+  <br><br>
+This kind of bias is very prevalent because many people select members of their group based on appearance or treat them differently. Those who meet societal standards of beauty are more likely to obtain employment, assignments, or promotions than those deemed to be less attractive. This kind of bias needs to be avoided because it could potentially make the project worse and less effective. (P.2) “ Before you start thinking that you’d never judge somebody by how they look, the studies suggest that you likely do it all the time — very quickly and not fully aware of it” (Hendricks, 2022).
+<br><br>
+
+  Team leaders should hire people based on the opinions they have expressed online before interviewing them, but make careful to analyze them beforehand so you don't change your mind. In my situation, we selected our group based on their ideas, and I have previously evaluated them, so I'm confident that my opinion will not change even when I encounter them in person. 
+
+ 
+<br><br> <b>Confirmation bias</b>  <br><br>
+
+When you have this bias, you believe you are correct regardless of the evidence. In other words, confirmation bias is the propensity to seek for, interpret, favor, and remember information in a way that supports or confirms one's preexisting opinions or values. Because you only believe what you want to believe, this bias can be extremely dangerous. For instance, in our group project, one of my partners might think that we should build our project with Swift because it is simple, and they wouldn't even want to read about other languages because they think their language is the simplest. (p: 4) “Confirmation bias is important because it may lead people to hold strongly to false beliefs or to give more weight to information that supports their beliefs than is warranted by the evidence” (Casad,2019).
+<br><br>
+People are overconfident in their beliefs, therefore it's difficult to convince them to change for you. However, in my case, I think that if we all shared our ideas and disputed which one is correct, we could arrive to a conclusion and change it as effectively as we could.
+
+<br><br><b> Ingroup bias </b><br><br>
+This bias is the habit of individuals to treat members of their own group with preference. Even when people are randomly divided into groups, this bias manifests, rendering group membership functionally worthless. Therefore, in my case, we formed our own groups. I'm sure that many people did so because they wanted to spend time with their friends, which means that the other people are undoubtedly not as important, which could delay the project and decision-making.
+<br><br>
+In order to prevent this, try to choose a group based on the idea you love the most rather than the members of the group. Also, try to socialize with everyone, avoid getting too close to anyone when working on something seriously important, and pay attention to everyone equally. In my situation, I joined the group that my friend joined since we both agreed on the idea, but I'll make sure to put our relationship to the side when it's time to work and concentrate on the task at hand so we can finish the project
+
+<br><br><b> Expedience Bias</b><br><br> Because we are often pressured owing to deadlines, we always try to choose the easiest and safest alternative, but occasionally they tend to go wrong. This bias occurs when we would rather move quickly than take time to consider. The reason this is terrible is because one minor error can damage the entire project. (P: 4) “Humans have a built-in need for certainty — to know what is going on. A downside of that need is the tendency to rush to judgment without fully considering all the facts” (NeuroLeadership Institute, 2022).
+<br><br>
+Because it can happen quickly without you noticing it, this bias is very difficult to overcome, but my team and I will make sure to take little decisions every time and label them so we can keep track of them and always see our available options wisely.
+<br><br>
+</p>
+<h2><b> Citations: </b> <br><br>
+  
+1- Encyclopædia Britannica, inc. (n.d.). Confirmation bias. Encyclopædia Britannica. Retrieved December 9, 2022, from  https://www.britannica.com/science/confirmation-bias
+<br><br>
+2- Team, U. B. (2021, December 16). If we're not careful, our biases can have adverse consequences at the Workplace. Ungender. Retrieved December 9, 2022, from https://www.ungender.in/if-were-not-careful-our-biases-can-have-adverse-consequences-at-the-workplace/
+<br><br>
+3- Scotty Hendricks. (2022, January 26). Beauty bias: We tend to think pretty people are morally superior. Big Think. Retrieved December 9, 2022, from https://bigthink.com/thinking/beauty-bias-moral/#:~:text=Beauty%20is%20often%20associated%20with,are%20tied%20to%20good%20looks.
+<br><br>
+4- Pai, S. (2019, February 5). The top 4 unconscious bias that impact teams. LinkedIn. Retrieved December 9, 2022, from https://www.linkedin.com/pulse/top-4-unconscious-bias-impact-teams-shwetha-pai
+<br><br>
+5- In-group bias. The Decision Lab. (n.d.). Retrieved December 9, 2022, from https://thedecisionlab.com/biases/in-group-bias
+Abkowitz, A. (2022, August 4). The 5 biggest biases that affect decision-making. NeuroLeadership Institute. Retrieved December 9, 2022, from https://neuroleadership.com/your-brain-at-work/seeds-model-biases-affect-decision-making/
+
+
+</body>
+
+
+									
