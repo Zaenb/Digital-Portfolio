@@ -94,7 +94,7 @@ header .navbar ul li ul li ul{
 	 
 	  border-style: solid;
 	  border: 1px solid;
-	  box-shadow: 10px 10px 50px lightcoral inset;
+	  box-shadow: 10px 10px 50px rgb(234, 238, 185) inset;
 	  text-align: center;
       }
       h1{ text-shadow: 0 0 7px deeppink;
@@ -104,12 +104,12 @@ header .navbar ul li ul li ul{
 	  	   
 	   border: 1px solid;
 	   padding: 10px;
-	   box-shadow:5px 10px 40px lightcoral inset;
+	   box-shadow:5px 10px 40px rgb(227, 224, 148) inset;
 	 }
            
       body {  
 	   
-       background-image: linear-gradient(45deg, beige, rgb(255,122,89));
+       background-image: linear-gradient(45deg, beige, rgb(213, 231, 142));
 	    
 	  }
     
